@@ -1,47 +1,20 @@
 {
   "schemaVersion": 1,
-  "version": "2.2.4-debug.13842",
-  "tag": "v2.2.4-debug.13842+18d7fa7",
+  "version": "2.8.0-debug.16286",
+  "tag": "v2.8.0-debug.16286+b428cc0",
   "channel": "debug",
   "prerelease": true,
-  "releaseSequence": 13842,
-  "notes": "Automated release-signed debug-channel build from develop @ 18d7fa7. Push releases are always prerelease and never Latest.",
+  "releaseSequence": 16286,
+  "notes": "Automated desktop debug-channel build from main @ b428cc0. Push releases are always prerelease and never Latest.",
   "assets": [
     {
-      "name": "fushi-2.2.4-debug.13842-18d7fa7-debug.apk",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.2.4-debug.13842-18d7fa7-debug.apk",
-      "releaseSequence": 13842,
-      "tag": "v2.2.4-debug.13842+18d7fa7",
-      "version": "2.2.4-debug.13842",
-      "size": 268830582,
-      "sha256": "7ae417e4c1491f93f2c0c3cf09d25f992ecca879543d9012e842452b5bb2268f"
-    },
-    {
-      "name": "fushi-2.2.4-debug.13842-ios.ipa",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.2.4-debug.13842-ios.ipa",
-      "releaseSequence": 13842,
-      "tag": "v2.2.4-debug.13842+18d7fa7",
-      "version": "2.2.4-debug.13842",
-      "size": 68266611,
-      "sha256": "5983dba1f8cb0366bd667aaf0df7868ce64ac4e317a8dfc6aad29b9975ad10d0"
-    },
-    {
-      "name": "fushi-2.2.4-debug.13842-macos.zip",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.2.4-debug.13842-macos.zip",
-      "releaseSequence": 13842,
-      "tag": "v2.2.4-debug.13842+18d7fa7",
-      "version": "2.2.4-debug.13842",
-      "size": 334761839,
-      "sha256": "6214d6330b62221e0383dba2e4f0014fef8606097ddf81659e5f19fc402573d7"
-    },
-    {
-      "name": "fushi-2.2.4-debug.13842-windows-setup.exe",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.2.4-debug.13842-windows-setup.exe",
-      "releaseSequence": 13842,
-      "tag": "v2.2.4-debug.13842+18d7fa7",
-      "version": "2.2.4-debug.13842",
-      "size": 261847024,
-      "sha256": "8ebce87e61df6caf2344449c32489c69fdff1360d0be0d488c9eedf5fb4a541c"
+      "name": "fushi-2.8.0-debug.16286-windows-setup.exe",
+      "browser_download_url": "https://github.com/ll1zt/Fushi/releases/download/fushi-debug-rolling/fushi-2.8.0-debug.16286-windows-setup.exe",
+      "releaseSequence": 16286,
+      "tag": "v2.8.0-debug.16286+b428cc0",
+      "version": "2.8.0-debug.16286",
+      "size": 283158768,
+      "sha256": "3d9b3bd848c84ce396604c54717eb04b2f292b4bee051fe82dba90b3e65251f3"
     }
   ]
 }
